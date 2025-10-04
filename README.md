@@ -1,4 +1,4 @@
-# expanse-management-system
+# expense-management-system
 💰 Expense Management System — Team Femgineers
 🏆 Hackathon Project
 
